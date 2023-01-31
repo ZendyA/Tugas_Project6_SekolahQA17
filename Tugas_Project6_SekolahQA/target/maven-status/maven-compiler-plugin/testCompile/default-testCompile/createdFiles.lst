@@ -1,0 +1,11 @@
+StepDefinitions\EditProfile.class
+StepDefinitions\Login.class
+Runner\Hooks.class
+PageObject\DashboardPage.class
+PageObject\AddEmployeePIMPage.class
+StepDefinitions\AddNewEmployee.class
+PageObject\MyInfoPage.class
+PageObject\PIMPage.class
+PageObject\LandingPage.class
+PageObject\PunchButton.class
+Runner\Runner.class
